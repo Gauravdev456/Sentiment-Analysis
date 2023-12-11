@@ -8,10 +8,10 @@ Title: **Twitter Sentiment Analysis on the Israeli–Palestinian Conflict**
 **Methodology:**
 Two distinct models are employed to gain insights into the topic:
 
-  Rule-Based Model (VADER):
+  **Rule-Based Model (VADER):**
   The project incorporates a rule-based sentiment analysis model, specifically VADER, to extract insights. This model enables the identification of sentiments based on predefined rules, offering a structured analysis of sentiment patterns.
   
-  NLP Model (RoBERTa):
+  **NLP Model (RoBERTa):**
   Additionally, a Natural Language Processing (NLP) model, RoBERTa, is implemented. This model, based on transformer architecture, provides a more sophisticated analysis by understanding the contextual nuances of language. RoBERTa enhances the depth of sentiment analysis, capturing subtle variations in public opinions.
 
 **Project Findings:**
